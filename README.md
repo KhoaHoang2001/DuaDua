@@ -1,6 +1,6 @@
 # DuaDua
 ## About
-DuaDua is a free open-source racing game using Panda3D
+DuaXe3D is a free open-source racing game using Panda3D
 ## Installation
 - Windows:
 - Linux:
