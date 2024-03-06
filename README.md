@@ -1,4 +1,4 @@
-# DuaDua
+# DuaXe3D
 ## About
 DuaXe3D is a free open-source racing game using Panda3D
 ## Installation
